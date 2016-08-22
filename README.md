@@ -1,26 +1,8 @@
-Repoxication
-================
+# Disabilities Analyzer #
 
-App name: Repoxycation 
+[![ScreenShot](https://s15.postimg.org/9cjt5hmij/Stability.jpg)](https://www.youtube.com/watch?v=W6EVBrkqxRI2)
 
-The App succintly diagnoses patients with disabilities such as Parkinson's Disease, etc, 
-
-================
+The tool provides indicator for diagnoses of patients with motor disabilities such as Parkinson's Disease, etc. 
 
 
-### LICENSE
 
-Copyright (C) 2011-2016 Sugeerth Murugesan
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
